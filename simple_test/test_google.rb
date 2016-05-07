@@ -8,3 +8,5 @@ puts "From puts: #{arr1}"
 puts "From puts: #{arr2}"
 puts "From puts: #{arr3}"
 
+puts "From puts: #{arr1[1]}"
+
