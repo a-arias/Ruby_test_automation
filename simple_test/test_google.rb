@@ -5,3 +5,5 @@ arr1[1]="LA"
 arr1[2]="NY"
 
 puts "From puts: #{arr1}"
+puts "From puts: #{arr1[1]}"
+
