@@ -1,3 +1,5 @@
-# Ruby_Automation_Testing
+# Ruby Automation Testing
 
-here you can find great examples of how to create automation tests using ruby and selenium
+Here you can find great examples of how to create automation tests using ruby and selenium
+1 - Page object model
+
